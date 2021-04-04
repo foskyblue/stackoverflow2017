@@ -23,9 +23,9 @@ Other libraries needed to successfully run this project includes:
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. What is the average salary of web developers and which group has the highest average job satisfaction?
-2. What is the most adopted methodology and version control in software development?
-3. How important is the knowledge of algorithms and data structures, and communication skills in the recruitment of Software developers? 
+1. How important is the knowledge of algorithms and data structures, and communication skills in the recruitment of a Web Developer?
+2. What is the most adopted methodology and version control system by large companies in Web Development?
+3. What is the average salary of web developers and which group has the highest job satisfaction? 
 
 
 
