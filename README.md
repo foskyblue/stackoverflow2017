@@ -37,7 +37,7 @@ Also, there is an additional Utils.py file that contains some special functions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://foskies.medium.com/things-you-should-know-about-web-development-2c71ffd3ffa3).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
